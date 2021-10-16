@@ -30,7 +30,7 @@ main {
 main h1 {
     color: #8880F3;
     font-size: 3rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     text-align: center;
 }
 
@@ -43,13 +43,13 @@ main .social-media a {
     text-decoration: none;
 }
 
-main .social-media i{
+main .social-media img{
     color: white;
-    width: 46px;
+    width: 35px;
     margin-left: 3rem;
 }
 
-main .social-media a:first-child i{
+main .social-media a:first-child img{
     margin-left: 0;
 }
 
